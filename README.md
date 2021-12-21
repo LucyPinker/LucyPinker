@@ -1,4 +1,5 @@
-Hey there, I'm Lucy, a Barcelona based Full Stack Developer! 👋
+**Hey there, I'm Lucy, a Barcelona based Full Stack Developer! 👋**
+
 
 👨🏼‍💻 I’m currently looking for a job as a Junior Developer 👋🏼 
 
@@ -10,8 +11,19 @@ Hey there, I'm Lucy, a Barcelona based Full Stack Developer! 👋
 
 💰 Checkout the [Silverhelp](http://www.silverhelp.me/) project!
 
-Connect with me on Linkedin!
-lucypinker
+**Connect with me on Linkedin!**
+https://www.linkedin.com/in/lucypinker/
 
-Languages and Tools:
-bootstrap css3 figma git heroku html5 javascript photoshop rails react ruby sass
+**Languages and Tools:**
+
+Ruby
+Rails
+Git
+Heroku
+CSS3
+JS6
+React
+HTML5
+Figma
+
+
