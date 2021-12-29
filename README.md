@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning React
 
-🔭 I’m currently working on building my portfolio
+🔭 I’m currently working on Silverhelp, a intergenerational community connection platform!
 
 👯 I’m looking to collaborate on socially conscious projects!
 
